@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yeongho_movie_app/precache-manifest.61e6d83811ff26ce9c3acf5ea8e96711.js"
+  "/yeongho_movie_app/precache-manifest.dd33d639f827e7c742b3773b7a28790e.js"
 );
 
 self.addEventListener('message', (event) => {
