@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yeongho_movie_app/static/css/main.f7ce751b.chunk.css",
+    "main.js": "/yeongho_movie_app/static/js/main.d0986ca5.chunk.js",
+    "main.js.map": "/yeongho_movie_app/static/js/main.d0986ca5.chunk.js.map",
+    "runtime-main.js": "/yeongho_movie_app/static/js/runtime-main.20ecca6d.js",
+    "runtime-main.js.map": "/yeongho_movie_app/static/js/runtime-main.20ecca6d.js.map",
+    "static/js/2.bf9265b9.chunk.js": "/yeongho_movie_app/static/js/2.bf9265b9.chunk.js",
+    "static/js/2.bf9265b9.chunk.js.map": "/yeongho_movie_app/static/js/2.bf9265b9.chunk.js.map",
+    "index.html": "/yeongho_movie_app/index.html",
+    "precache-manifest.a406c320ecea0f3cabbf44451aab1941.js": "/yeongho_movie_app/precache-manifest.a406c320ecea0f3cabbf44451aab1941.js",
+    "service-worker.js": "/yeongho_movie_app/service-worker.js",
+    "static/css/main.f7ce751b.chunk.css.map": "/yeongho_movie_app/static/css/main.f7ce751b.chunk.css.map",
+    "static/js/2.bf9265b9.chunk.js.LICENSE.txt": "/yeongho_movie_app/static/js/2.bf9265b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20ecca6d.js",
+    "static/js/2.bf9265b9.chunk.js",
+    "static/css/main.f7ce751b.chunk.css",
+    "static/js/main.d0986ca5.chunk.js"
+  ]
+}
