@@ -3,4 +3,4 @@
 
 React JS Fundamentals course (2020)
 
-[웹사이트 링크](dudgh9661/github.io./yeongho_movie_app)
+[first movie app using reactjs](https://dudgh9661.github.io/yeongho_movie_app/)
